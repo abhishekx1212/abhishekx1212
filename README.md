@@ -12,7 +12,7 @@
 
 - 👨‍💻 My portfolio [https://abhishekx1212.github.io/portfolio-3/](https://abhishekx1212.github.io/portfolio-3/)
 
-- 📫 How to reach me **trigonx1212@gmail.com**
+- 📫 How to reach me trigonx1212@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
