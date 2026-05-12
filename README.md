@@ -8,7 +8,7 @@
 
 - 🔭 My Recent Project [E-commerce Website](https://abhishekx1212.github.io/cobbler/)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently working as a Frontend Developer in SolvifyTech
 
 - 👨‍💻 My portfolio [https://abhishekx1212.github.io/portfolio-3/](https://abhishekx1212.github.io/portfolio-3/)
 
